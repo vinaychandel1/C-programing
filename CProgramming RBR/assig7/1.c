@@ -46,4 +46,6 @@ int main(){
 	free(line);
 	free(box_ptr);
 	fclose(fp);
+	
+	return 0;
 }
