@@ -1,4 +1,5 @@
-<h2>TCS Command Line Arguments Questions
+<h2><center>TCS Command line Coding Problems</center></h2>
+TCS Command Line Arguments Questions
 TCS Coding Questions – 1
 TCS Coding Questions – 2
 TCS Command Line Arguments – Fibonacci Series
@@ -23,4 +24,4 @@ Area of Circle
 Area of Triangle
 Checking Palindrome (Number)
 Checking Palindrome (String) (asked 91 Times)
-Checking Prime or Not</h2>
+Checking Prime or Not
