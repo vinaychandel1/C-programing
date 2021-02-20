@@ -1,27 +1,28 @@
 <h2><center>TCS Command line Coding Problems</center></h2>
-TCS Command Line Arguments Questions
-TCS Coding Questions – 1
-TCS Coding Questions – 2
-TCS Command Line Arguments – Fibonacci Series
-TCS Command Line Program to Swap two numbers
-TCS String Reversal Using Command Line Programming (Most Asked – 104 times)
-Greatest of Two Numbers using CLP
-LCM of Two Number using CLP
-Average of Two Numbers
-Sum of Digits of a number
-Binary to Decimal (asked 25 times)
-Decimal to Binary (asked 42 times)
-Nth term in Fibbonacci series
-Square Root of Prime Number
-Square Root without sqrt.h
-Armstrong Number
-Reverse Digits of a Number
-Odd Even Number
-Binary to Octal
-Decimal to Octal
-Check Leap Year
-Area of Circle
-Area of Triangle
-Checking Palindrome (Number)
-Checking Palindrome (String) (asked 91 Times)
-Checking Prime or Not
+TCS Command Line Arguments Questions<br>
+TCS Coding Questions – 1<br>
+TCS Coding Questions – 2<br>
+TCS Command Line Arguments – Fibonacci Series<br>
+TCS Command Line Program to Swap two numbers<br>
+TCS String Reversal Using Command Line Programming (Most Asked – 104 times)<br>
+Greatest of Two Numbers using CLP<br>
+LCM of Two Number using CLP<br>
+Average of Two Numbers<br>
+Sum of Digits of a number<br>
+Binary to Decimal (asked 25 times)<br>
+Decimal to Binary (asked 42 times)<br>
+Nth term in Fibbonacci series<br>
+Square Root of Prime Number<br>
+Square Root without sqrt.h<br>
+Armstrong Number<br>
+Reverse Digits of a Number<br>
+Odd Even Number<br>
+Binary to Octal<br>
+Decimal to Octal<br>
+Check Leap Year<br>
+Area of Circle<br>
+Area of Triangle<br>
+Checking Palindrome (Number)<br>
+Checking Palindrome (String) (asked 91 Times)<br>
+Checking Prime or Not<br>
+https://prepinsta.com/solve-command-line-arguments-coding-questions/
